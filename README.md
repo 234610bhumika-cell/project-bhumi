@@ -6,7 +6,7 @@ Python, SQL, Power BI, and Tableau.
 
 📍 Faridabad, Haryana | ✉️ bhumika2878@gmail.com | [www.linkedin.com/in/bhumika-srivastava1301
 
-](#) | [Resume](#)
+]
 
 ---
 
