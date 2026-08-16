@@ -4,7 +4,7 @@ B.Sc. Life Sciences graduate (University of Delhi) turned data analyst, focused 
 turning messy, real-world datasets into decision-ready dashboards and insights using
 Python, SQL, Power BI, and Tableau.
 
-📍 Faridabad, Haryana | ✉️ bhumika2878@gmail.com | [LinkedIn](#) | [Resume](#)
+📍 Faridabad, Haryana | ✉️ bhumika2878@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/bhumika-srivastava1301)
 
 ---
 
