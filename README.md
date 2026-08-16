@@ -1,0 +1,40 @@
+# Bhumika Srivastava — Data & Business Analytics Portfolio
+
+B.Sc. Life Sciences graduate (University of Delhi) turned data analyst, focused on
+turning messy, real-world datasets into decision-ready dashboards and insights using
+Python, SQL, Power BI, and Tableau.
+
+📍 Faridabad, Haryana | ✉️ bhumika2878@gmail.com | [LinkedIn](#) | [Resume](#)
+
+---
+
+## Projects
+
+### 📊 [BRCA Gene & Cancer Risk Dashboard](./brca-gene-cancer-risk-dashboard)
+Power BI dashboard consolidating 3+ public genetic datasets into an interactive tool
+for exploring hereditary cancer risk by gene, population, and family history.
+**Ranked 1st out of 40+ entries**, DBT Star College Program.
+`Power BI` `SQL` `Public Genetic Databases`
+
+### 🛒 [Retail Sales Performance & Revenue Analysis](./retail-sales-performance)
+Power BI dashboard on 10,000+ retail transactions, surfacing a 14% regional revenue
+drop and translating it into a targeted restocking/promotion recommendation.
+`Python` `SQL` `Power BI`
+
+### 🛍️ [E-Commerce Customer Behavior & Revenue Analysis](./ecommerce-customer-behavior)
+Analysis of 50,000+ transaction records identifying churn indicators and customer
+lifetime value patterns, validated across Power BI and Tableau for executive reporting.
+`SQL` `Python` `Power BI` `Tableau` `Excel`
+
+---
+
+## Core Skills
+
+**Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (Joins,
+Subqueries, Window Functions), Text Mining, Predictive Modeling, Statistical Analysis
+
+**BI & Visualization:** Power BI (DAX, Dashboards, Reporting Automation), Tableau,
+Advanced Excel (Pivot Tables, XLOOKUP, Power Query), SPSS
+
+**Business & Domain:** Financial Analysis, Market Research, Competitive Analysis,
+KPI Reporting, ETL, Business Impact Analysis
