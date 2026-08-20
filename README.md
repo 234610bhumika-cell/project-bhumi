@@ -26,9 +26,9 @@ Analysis of 50,000+ transaction records identifying churn indicators and custome
 lifetime value patterns, validated across Power BI and Tableau for executive reporting.
 `SQL` `Python` `Power BI` `Tableau` `Excel`
 
-### 📈 Marketing Campaign ROI & Customer Acquisition Cost (CAC) Analysis
+### 📈 [Marketing Campaign ROI & Customer Acquisition Cost (CAC) Analysis](marketing-roi-cac-analysis)
 
-Power BI dashboard and business case analyzing 8 marketing channels on ROI, CAC, and CLV:CAC, with a budget reallocation model projecting ~₹2.7L net revenue gain from shifting spend to the top-performing channel. `Power BI` `DAX` `Excel`
+**Power BI dashboard and business case analyzing 8 marketing channels on ROI, CAC, and CLV:CAC, with a budget reallocation model projecting ~₹2.7L net revenue gain from shifting spend to the top-performing channel. `Power BI` `DAX` `Excel`
 
 ---
 
